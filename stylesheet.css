@@ -1,0 +1,25 @@
+body{
+    
+  background-image: url('alan-walker-minimalism-5k-61.jpg');
+      background-size: 1366px 768px;
+}
+#main{
+    height: 450px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin-top:100px;
+    border-radius: 20px;
+    
+}
+#info
+{
+    margin-left: 100px;
+    padding-top: 2px;
+}
+input[type=text]
+{
+    
+    box-sizing: border-box;
+    border:2px solid #0984e3;
+    
+}
